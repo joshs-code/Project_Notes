@@ -46,3 +46,4 @@
     * [Ansible Blockinfile Module](kodekloud-engineer-program/ansible-level-2/ansible-blockinfile-module.md)
   * [Ansible Level 3](kodekloud-engineer-program/ansible-level-3/README.md)
     * [Creating Soft Links Using Ansible](kodekloud-engineer-program/ansible-level-3/creating-soft-links-using-ansible.md)
+    * [Managing ACLs Using Ansible](kodekloud-engineer-program/ansible-level-3/managing-acls-using-ansible.md)
