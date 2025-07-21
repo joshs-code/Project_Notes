@@ -31,6 +31,7 @@
     * [Install Ansible](kodekloud-engineer-program/linux-administrator-level-2/install-ansible.md)
     * [Configure Local Yum repos](kodekloud-engineer-program/linux-administrator-level-2/configure-local-yum-repos.md)
     * [Linux Services](kodekloud-engineer-program/linux-administrator-level-2/linux-services.md)
+    * [Linux Configure sudo](kodekloud-engineer-program/linux-administrator-level-2/linux-configure-sudo.md)
   * [Ansible Level 1](kodekloud-engineer-program/ansible-level-1/README.md)
     * [Troubleshoot and Create Ansible Playbook](kodekloud-engineer-program/ansible-level-1/troubleshoot-and-create-ansible-playbook.md)
     * [Create Ansible Inventory for App Server Testing](kodekloud-engineer-program/ansible-level-1/create-ansible-inventory-for-app-server-testing.md)
