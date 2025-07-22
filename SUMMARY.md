@@ -49,3 +49,5 @@
   * [Ansible Level 3](kodekloud-engineer-program/ansible-level-3/README.md)
     * [Creating Soft Links Using Ansible](kodekloud-engineer-program/ansible-level-3/creating-soft-links-using-ansible.md)
     * [Managing ACLs Using Ansible](kodekloud-engineer-program/ansible-level-3/managing-acls-using-ansible.md)
+    * [Ansible Manage Services](kodekloud-engineer-program/ansible-level-3/ansible-manage-services.md)
+    * [Ansible Lineinfile Module](kodekloud-engineer-program/ansible-level-3/ansible-lineinfile-module.md)
