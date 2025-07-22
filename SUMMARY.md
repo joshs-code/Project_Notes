@@ -32,6 +32,7 @@
     * [Configure Local Yum repos](kodekloud-engineer-program/linux-administrator-level-2/configure-local-yum-repos.md)
     * [Linux Services](kodekloud-engineer-program/linux-administrator-level-2/linux-services.md)
     * [Linux Configure sudo](kodekloud-engineer-program/linux-administrator-level-2/linux-configure-sudo.md)
+    * [DNS Troubleshooting](kodekloud-engineer-program/linux-administrator-level-2/dns-troubleshooting.md)
     * [Linux Firewalld Setup](kodekloud-engineer-program/linux-administrator-level-2/linux-firewalld-setup.md)
   * [Ansible Level 1](kodekloud-engineer-program/ansible-level-1/README.md)
     * [Troubleshoot and Create Ansible Playbook](kodekloud-engineer-program/ansible-level-1/troubleshoot-and-create-ansible-playbook.md)
@@ -48,4 +49,3 @@
   * [Ansible Level 3](kodekloud-engineer-program/ansible-level-3/README.md)
     * [Creating Soft Links Using Ansible](kodekloud-engineer-program/ansible-level-3/creating-soft-links-using-ansible.md)
     * [Managing ACLs Using Ansible](kodekloud-engineer-program/ansible-level-3/managing-acls-using-ansible.md)
-    * [DNS Troubleshooting](kodekloud-engineer-program/ansible-level-3/dns-troubleshooting.md)
