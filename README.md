@@ -2,8 +2,6 @@
 
 [https://engineer.kodekloud.com/](https://engineer.kodekloud.com/)
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-10 at 07-58-03 KodeKloud Engineer Real Project Tasks on Real Systems.png" alt=""><figcaption></figcaption></figure>
-
 ## Project Nautilus[¶](https://kodekloudhub.github.io/kodekloud-engineer/docs/projects/nautilus#project-nautilus) <a href="#project-nautilus" id="project-nautilus"></a>
 
 ### Overview[¶](https://kodekloudhub.github.io/kodekloud-engineer/docs/projects/nautilus#overview) <a href="#overview" id="overview"></a>
