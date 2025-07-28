@@ -54,4 +54,5 @@
     * [Ansible Manage Services](kodekloud-engineer-program/ansible-level-3/ansible-manage-services.md)
     * [Ansible Lineinfile Module](kodekloud-engineer-program/ansible-level-3/ansible-lineinfile-module.md)
     * [Ansible Replace Module](kodekloud-engineer-program/ansible-level-3/ansible-replace-module.md)
-* [Windows Server Administration Notes](windows-server-administration-notes.md)
+* [Windows Server Administration Notes](windows-server-administration-notes/README.md)
+  * [Installing Active Directory on Win Server 2022](windows-server-administration-notes/installing-active-directory-on-win-server-2022.md)
