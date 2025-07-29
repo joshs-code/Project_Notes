@@ -56,4 +56,5 @@
     * [Ansible Replace Module](kodekloud-linux-ansible-engineer-program/ansible-level-3/ansible-replace-module.md)
   * [Page 1](kodekloud-linux-ansible-engineer-program/page-1.md)
 * [Windows Server Administration Home Lab Notes](windows-server-administration-home-lab-notes/README.md)
-  * [Installing Active Directory on Win Server 2022](windows-server-administration-home-lab-notes/installing-active-directory-on-win-server-2022.md)
+  * [1. Installing Active Directory on Win Server 2022](windows-server-administration-home-lab-notes/1.-installing-active-directory-on-win-server-2022.md)
+  * [2. Group Policy Management: Creating and Setting up GPO](windows-server-administration-home-lab-notes/2.-group-policy-management-creating-and-setting-up-gpo.md)
