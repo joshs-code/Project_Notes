@@ -13,3 +13,8 @@
 <figure><img src="../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+
+Click on promote this server to a domain controller
+
